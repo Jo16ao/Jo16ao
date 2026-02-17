@@ -3,6 +3,12 @@
 
 <br>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=600&height=70&lines=Cybersecurity+Student;Data+Analyst;Python+%7C+SQL+%7C+IA" alt="Typing SVG" />
+</p>
+
+---
+
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Jo16ao&label=Profile%20views&color=0e75b6&style=flat"
     alt="Jo16ao" /> 
   </p>
