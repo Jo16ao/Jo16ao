@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Joao Paulino Salas</h1>
-<h3 align="center">Cybersecurity Student & Data Analyst from Peru🌟.</h3>
+<h3 align="center">Cybersecurity Student & Data Analyst🌟.</h3>
 
 <br>
 
